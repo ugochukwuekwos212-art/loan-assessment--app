@@ -15,3 +15,13 @@ if age < 18 and not age > 100:
     print("underage")   
 else:     
     print("Old enough")
+
+
+age = 12
+
+if age == 12  :
+    print(age)
+else:
+    print("Must be integer")
+
+
